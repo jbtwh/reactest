@@ -1,0 +1,16 @@
+/resources/public/js/apptest.js
+/resources/public/js/main.js
+/resources/public/js/helloWorldComponents.js
+/resources/public/js/apptest2.js
+/resources/public/html/index.html
+/classes/
+/.lein-deps-sum
+/.lein-failures
+/.lein-env
+/checkouts
+/.env
+/target
+/.lein-repl-history
+/.nrepl-port
+/.idea
+/reagentest.iml
